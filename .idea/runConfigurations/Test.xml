@@ -1,8 +1,8 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Test" type="JUnit" factoryName="JUnit">
-    <module name="IoTNode" />
+    <module name="IoTNodeUloha_1" />
     <useClassPathOnly />
-    <option name="PACKAGE_NAME" value="sk.fri.uniza" />
+    <option name="PACKAGE_NAME" value="sk.fri.uniza.NoAuth" />
     <option name="MAIN_CLASS_NAME" value="sk.fri.uniza.WeatherStationTest" />
     <option name="METHOD_NAME" value="" />
     <option name="TEST_OBJECT" value="class" />
